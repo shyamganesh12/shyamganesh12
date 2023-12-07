@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Data Analyst</h1>
+<h1 align="center">Hi 👋, I'm Shyam Ganesh</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 - 📫 How to reach me **shyamganesh122@gmail.com**
